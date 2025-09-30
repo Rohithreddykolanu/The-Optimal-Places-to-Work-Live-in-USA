@@ -20,16 +20,19 @@ Information 📖 – Metadata and project details
 Analyse 📑 – Statistical insights and trends
 Consolidated Data Set 📂 – Merged data from multiple sources
 Data Set 1 - 5 📜 – Raw data files
+
 🔍 Key Metrics Tracked
 Economic Indicators: GDP, Median Income, Job Growth
 Demographics: Population, Migration Rate, Graduation Rate
 Health & Welfare: Poverty Rate, Obesity Rate
 Infrastructure: Air Quality, Internet Speed, Cost of Living
 Crime & Safety: Crime Rate Comparisons
+
 📊 Technology Stack
 Microsoft Excel (Macros & VBA)
 ETL Pipelines for Data Aggregation
 Data Visualization & Analysis Tools
+
 📎 How to Use
 1️⃣ Download the Excel file from the repository
 2️⃣ Enable Macros & Editing Mode for full functionality
